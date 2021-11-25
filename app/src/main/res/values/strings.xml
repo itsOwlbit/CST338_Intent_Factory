@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CST338_Intent_Factory</string>
+    <string name="mainActivityLabel_text">Main Activity</string>
+    <string name="childActivityLabel_text">Child Activity</string>
+    <string name="editText_input"></string>
+    <string name="editText_message" />
+    <string name="editText_hintCat">What does the cat say?</string>
+    <string name="editText_hintFox">What does the fox say?</string>
+    <string name="button_text">SUBMIT MESSAGE</string>
+    <string name="textView_theySay" />
+    <string name="imageText_fox">Image of fox.</string>
+    <string name="imageText_cat">Image of cat.</string>
+    <string name="failedMessage">Failed to get message.</string>
+</resources>

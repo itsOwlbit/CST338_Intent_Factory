@@ -1,12 +1,9 @@
 # CST338_Intent_Factory
 Android Studio Project with Intent Factory
 
-Program starting:
-![caption]https://github.com/itsOwlbit/CST338_Intent_Factory/blob/master/IntentFactory00.jpg
+Program starting:<br>
+<img src="IntentFactory00.png" width="300">
 
-Program running:
-![caption]https://github.com/itsOwlbit/CST338_Intent_Factory/blob/master/IntentFactory00.jpg
+Program running:<br>
+<img src="IntentFactory01.png" width="300"><img src="IntentFactory02.png" width="300"><img src="IntentFactory03.png" width="300">
 
-![caption]https://github.com/itsOwlbit/CST338_Intent_Factory/blob/master/IntentFactory00.jpg
-
-![caption]https://github.com/itsOwlbit/CST338_Intent_Factory/blob/master/IntentFactory00.jpg
